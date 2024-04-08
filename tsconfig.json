@@ -14,6 +14,9 @@
     /* Emit */
     "noEmit": true,                                   /* Disable emitting files from a compilation. */
 
+    "allowJs": true,
+    "checkJs": false,
+
     /* Interop Constraints */
     "isolatedModules": true,                          /* Ensure that each file can be safely transpiled without relying on other imports. */
     "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
